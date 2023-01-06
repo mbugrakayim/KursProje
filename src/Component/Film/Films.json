@@ -1,0 +1,100 @@
+[
+    {
+        "id": 1,
+        "filmAdı": "Reis",
+        "kategori": "Dram",
+        "imgSrc": "https://upload.wikimedia.org/wikipedia/tr/thumb/3/34/Reis_Film.jpg/640px-Reis_Film.jpg"
+    },
+    {
+        "id": 2,
+        "filmAdı": "Reis",
+        "kategori": "Dram",
+        "imgSrc": "https://upload.wikimedia.org/wikipedia/tr/thumb/3/34/Reis_Film.jpg/640px-Reis_Film.jpg"
+    },
+    {
+        "id": 3,
+        "filmAdı": "Reis",
+        "kategori": "Dram",
+        "imgSrc": "https://upload.wikimedia.org/wikipedia/tr/thumb/3/34/Reis_Film.jpg/640px-Reis_Film.jpg"
+    },
+    {
+        "id": 4,
+        "filmAdı": "Reis",
+        "kategori": "Dram",
+        "imgSrc": "https://upload.wikimedia.org/wikipedia/tr/thumb/3/34/Reis_Film.jpg/640px-Reis_Film.jpg"
+    },
+    {
+        "id" : 5,
+        "filmAdı": "Reis",
+        "kategori": "Dram",
+        "imgSrc": "https://upload.wikimedia.org/wikipedia/tr/thumb/3/34/Reis_Film.jpg/640px-Reis_Film.jpg"
+    },
+    {
+        "id" : 6,
+        "filmAdı": "Reis",
+        "kategori": "Dram",
+        "imgSrc": "https://upload.wikimedia.org/wikipedia/tr/thumb/3/34/Reis_Film.jpg/640px-Reis_Film.jpg"
+    },
+    {
+        "id" : 7,
+        "filmAdı": "Reis",
+        "kategori": "Dram",
+        "imgSrc": "https://upload.wikimedia.org/wikipedia/tr/thumb/3/34/Reis_Film.jpg/640px-Reis_Film.jpg"
+    }
+    ,
+    {
+        "id" : 8,
+        "filmAdı": "Reis",
+        "kategori": "Dram",
+        "imgSrc": "https://upload.wikimedia.org/wikipedia/tr/thumb/3/34/Reis_Film.jpg/640px-Reis_Film.jpg"
+    }
+    ,
+    {
+        "id" : 9,
+        "filmAdı": "Reis",
+        "kategori": "Dram",
+        "imgSrc": "https://upload.wikimedia.org/wikipedia/tr/thumb/3/34/Reis_Film.jpg/640px-Reis_Film.jpg"
+    },
+    {
+        "id" : 10,
+        "filmAdı": "Reis",
+        "kategori": "Dram",
+        "imgSrc": "https://upload.wikimedia.org/wikipedia/tr/thumb/3/34/Reis_Film.jpg/640px-Reis_Film.jpg"
+    },
+    {
+        "id" : 11,
+        "filmAdı": "Reis",
+        "kategori": "Dram",
+        "imgSrc": "https://upload.wikimedia.org/wikipedia/tr/thumb/3/34/Reis_Film.jpg/640px-Reis_Film.jpg"
+    },
+    {
+        "id" : 12,
+        "filmAdı": "Reis",
+        "kategori": "Dram",
+        "imgSrc": "https://upload.wikimedia.org/wikipedia/tr/thumb/3/34/Reis_Film.jpg/640px-Reis_Film.jpg"
+    },
+    {
+        "id" : 13,
+        "filmAdı": "Reis",
+        "kategori": "Dram",
+        "imgSrc": "https://upload.wikimedia.org/wikipedia/tr/thumb/3/34/Reis_Film.jpg/640px-Reis_Film.jpg"
+    },
+    {
+        "id" : 14,
+        "filmAdı": "Reis",
+        "kategori": "Dram",
+        "imgSrc": "https://upload.wikimedia.org/wikipedia/tr/thumb/3/34/Reis_Film.jpg/640px-Reis_Film.jpg"
+    },
+    {
+        "id" : 15,
+        "filmAdı": "Reis",
+        "kategori": "Dram",
+        "imgSrc": "https://upload.wikimedia.org/wikipedia/tr/thumb/3/34/Reis_Film.jpg/640px-Reis_Film.jpg"
+    },
+    {
+        "id" : 16,
+        "filmAdı": "Reis",
+        "kategori": "Dram",
+        "imgSrc": "https://upload.wikimedia.org/wikipedia/tr/thumb/3/34/Reis_Film.jpg/640px-Reis_Film.jpg"
+    }
+]

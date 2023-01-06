@@ -1,0 +1,44 @@
+.popUpBack {
+    top: 15px;
+    width: 100vw;
+    height: 100vh;
+    right: 15px;
+    position: fixed;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 1;
+}
+
+.popUpContainer {
+    width: 90%;
+    height: 550px;
+    border-radius: 12px;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    padding: 25px;
+
+}
+
+.closeBtn{
+    display: flex;
+    justify-content: flex-end;
+}
+.closeBtn button{
+    background-color: transparent;
+    border: none;
+    font-size: 25px;
+    cursor: pointer;
+}
+
+.sol{
+    width: 25%;
+    float: left;
+    padding: 10px;
+}
+.over{
+    overflow: auto;
+}
+
+

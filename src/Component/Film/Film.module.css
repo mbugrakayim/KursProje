@@ -1,0 +1,115 @@
+@import url('https://fonts.googleapis.com/css2?family=Electrolize&display=swap');
+
+/* base css start */
+
+.container {
+    background-color: black;
+    color: white;
+    margin-top: 85px;
+}
+
+.movieListContainer {
+    margin-left: 70px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+
+
+.movieListWrapper {
+    overflow: hidden;
+    position: relative;
+    width: 300px;
+    height: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+    margin: 20px;
+    background-color: transparent;
+    padding-top: 20px;
+    border-radius: 10px;
+    letter-spacing: 1.5px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    transition: .3s;
+}
+
+
+
+
+
+.movieListWrapper:hover .movieItemImg,
+.movieListWrapper:hover .movieItemTitle {
+    transform: scale(1.2);
+    margin: 0 30px;
+    opacity: 1;
+}
+
+.movieItemImg {
+    width: 250px;
+    height: 200px;
+    object-fit: cover;
+    transition: 1s all ease-in-out;
+}
+
+
+
+.search {
+    position: relative;
+    box-shadow: 0 0 40px rgba(51, 51, 51, .1);
+    margin-top: 25px;
+    margin-bottom: 15px;
+}
+
+.search input {
+
+
+    text-indent: 25px;
+    border: 2px solid #d6d4d4;
+
+
+}
+
+.search input:focus {
+
+    box-shadow: none;
+    border: 2px solid blue;
+
+
+}
+
+.search i {
+
+    position: absolute;
+    top: 15px;
+    left: 16px;
+    color: black;
+}
+
+.search button {
+
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    height: auto;
+    width: 110px;
+    background: blue;
+
+}
+
+.movieItemTitle {
+    background-color: rgb(40, 40, 40, 0.4);
+    padding: 0 10px;
+    font-size: 28px;
+    font-weight: bold;
+    position: absolute;
+    top: 10%;
+    left: 50px;
+    opacity: 0;
+    transition: 1s all ease-in-out;
+}

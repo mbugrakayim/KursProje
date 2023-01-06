@@ -1,0 +1,12 @@
+.btn{
+    cursor: pointer;
+    text-decoration: none;
+    background-color: transparent;
+    color: #777;
+}
+.btn:hover{
+    color: red;
+}
+ul li a span{
+    font-size: 25px;
+}

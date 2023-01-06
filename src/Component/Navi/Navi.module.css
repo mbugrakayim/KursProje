@@ -1,0 +1,89 @@
+@font-face {
+    font-family: "Levibrush";
+    src: url("LEVIBRUSH.TTF");
+}
+
+.logo {
+    font-family: Levibrush, sans-serif;
+    font-weight: normal;
+    font-size: 3em;
+    position: relative;
+    padding: 5px;
+
+}
+
+.logo::after {
+    position: absolute;
+    inset: 0;
+    content: "";
+    background: linear-gradient(to right, #fec200 0%, #873e0b 100%);
+    mix-blend-mode: overlay;
+
+
+}
+
+
+
+.btn {
+    cursor: pointer;
+    text-decoration: none;
+    background-color: transparent;
+    color: #777;
+    transition: 0.5s linear;
+
+}
+
+.btn:hover {
+
+    color: #873e0b;
+    transform: scale(1.2);
+
+}
+
+.box {
+    font-size: 14px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    font-weight: 700;
+    padding: 10px 15px;
+    list-style-type: none;
+    transition: 0.5s linear;
+}
+
+.box:hover {
+
+    transform: scale(1.3);
+    z-index: 2;
+
+}
+
+li {
+    display: block;
+    transition-duration: 0.5s;
+    padding-top: 1rem;
+}
+
+li:hover {
+    cursor: pointer;
+}
+
+ul li ul {
+    visibility: hidden;
+    opacity: 0;
+    position: absolute;
+    transition: all 0.5s ease;
+    left: -35px;
+    display: none;
+}
+
+ul li:hover>ul,
+ul li ul:hover {
+    visibility: visible;
+    opacity: 1;
+    display: block;
+}
+
+ul li ul li {
+    clear: both;
+    width: 100%;
+}
